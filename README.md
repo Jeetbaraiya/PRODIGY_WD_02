@@ -38,9 +38,9 @@ git clone https://github.com/Jeetbaraiya/PRODIGY_WD_02.git
 ## 💻 How to Run
 
 
-Open index.html in any modern web browser:
+Open structure.html in any modern web browser:
 ```bash
-start index.html
+start structure.html
 ```
 
 ## 📷 Screenshots
